@@ -16,7 +16,7 @@ This Website is **Responsive**
 🖥️ Please click on the **LINK** below to view the demo.
 
 
-[![View Demo](https://img.shields.io/badge/View-Demo-yellow?style=for-the-badge&logo=javascript)](https://s-movakel.github.io/Image-Gallery-Unsplash/)
+[![View Demo](https://img.shields.io/badge/View-Demo-yellow?style=for-the-badge&logo=javascript)](https://S-Movakel.github.io/Image-Gallery-Unsplash)
 
 
 ## 🚀 My Project
