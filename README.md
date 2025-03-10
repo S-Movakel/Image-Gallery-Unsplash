@@ -16,15 +16,15 @@ This Website is **Responsive**
 🖥️ Please click on the **LINK** below to view the demo.
 
 
-[![View Demo](https://img.shields.io/badge/View-Demo-yellow?style=for-the-badge&logo=javascript)](https://s-movakel.github.io/Image-Gallery/Unsplash/)
+[![View Demo](https://img.shields.io/badge/View-Demo-yellow?style=for-the-badge&logo=javascript)](https://s-movakel.github.io/Image-Gallery-Unsplash/)
 
 
 ## 🚀 My Project
 <p align="center">
-  <img src="https://github.com/s-movakel/Image-Gallery/Unsplash/raw/main/Preview-full.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Image-Gallery-Unsplash/raw/main/Preview-full.png" alt="My Project" width="1200" />
 </p>
 <p align="center">
-  <img src="https://github.com/s-movakel/Image-Gallery/Unsplash/raw/main/Preview-phone.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Image-Gallery-Unsplash/raw/main/Preview-phone.png" alt="My Project" width="1200" />
 </p>
 
 ## 📧 CONTACT ME:
