@@ -6,7 +6,7 @@ This Website is **Responsive**
 
 🖥️ **Developed BY**: ****--Mohammad Sajjad Movakel--****
 
-🛠️ **Technologies Used**: 📄 **HTML** - 🎨 **CSS** - ⚙️ **JAVASCRIPT**
+🛠️ **Technologies Used**: 📄 **HTML** - 🎨 **CSS**
 
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
