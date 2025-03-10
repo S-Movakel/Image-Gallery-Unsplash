@@ -21,8 +21,10 @@ This Website is **Responsive**
 
 ## 🚀 My Project
 <p align="center">
-  <img src="https://github.com/s-movakel/Image-Gallery-Unsplash/raw/main/Preview-full.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Image-Gallery-Unsplash/raw/main/Preview-full.png" alt="My Project" width="1100" />
 </p>
+
+![Preview](https://github.com/S-Movakel/Image-Gallery-Unsplash/blob/main/Preview-Full.png)
 
 
 ## 📧 CONTACT ME:
