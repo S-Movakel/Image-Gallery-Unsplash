@@ -22,7 +22,6 @@ This Website is **Responsive**
 ## 🚀 My Project
 
 ![Preview](https://github.com/S-Movakel/Image-Gallery-Unsplash/blob/main/Preview-Full.png)
-![Preview](https://github.com/S-Movakel/Image-Gallery-Unsplash/blob/main/Preview-Phone.png)
 
 ## 📧 CONTACT ME:
 Please click on the **LINKS** below to contact me.
