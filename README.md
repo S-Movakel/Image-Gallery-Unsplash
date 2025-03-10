@@ -1,7 +1,6 @@
 # Image-Gallery-Unsplash
 **Responsive Unsplash** website home page with **IMAGE GALLERY** using **HTML** , **CSS**
 
-This Website is **Responsive** 
 
 
 🖥️ **Developed BY**: ****--Mohammad Sajjad Movakel--****
