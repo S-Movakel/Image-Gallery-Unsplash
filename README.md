@@ -20,8 +20,12 @@ This Website is **Responsive**
 
 
 ## 🚀 My Project
-
-
+<p align="center">
+  <img src="https://github.com/s-movakel/Image-Gallery/Unsplash/raw/main/Preview-full.png" alt="My Project" width="1200" />
+</p>
+<p align="center">
+  <img src="https://github.com/s-movakel/Image-Gallery/Unsplash/raw/main/Preview-phone.png" alt="My Project" width="1200" />
+</p>
 
 ## 📧 CONTACT ME:
 Please click on the **LINKS** below to contact me.
