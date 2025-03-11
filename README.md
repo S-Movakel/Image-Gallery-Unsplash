@@ -1,5 +1,5 @@
 # Image-Gallery-Unsplash
-**Responsive Unsplash** website home page with **IMAGE GALLERY** using **HTML** , **CSS**
+**RESPONSIVE Unsplash** website home page with **IMAGE GALLERY** using **HTML** , **CSS**
 
 
 
