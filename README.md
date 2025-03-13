@@ -5,7 +5,7 @@
 
 🖥️ **Developed BY**: ****--Mohammad Sajjad Movakel--****
 
-🛠️ **Technologies Used**: 📄 **HTML** - 🎨 **CSS**
+🛠️ **Technologies Used**: 📄 **HTML** - 🎨 **CSS** - **SASS**
 
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
